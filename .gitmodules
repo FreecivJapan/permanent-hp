@@ -1,0 +1,6 @@
+[submodule "permanent-mainhp"]
+	path = permanent-mainhp
+	url = https://github.com/FreecivJapan/permanent-mainhp.git
+[submodule "permanent-beginnerhp"]
+	path = permanent-beginnerhp
+	url = https://github.com/FreecivJapan/permanent-beginnerhp.git
